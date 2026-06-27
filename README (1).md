@@ -13,17 +13,13 @@
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝  
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=600&color=FF0000&center=true&vCenter=true&width=500&lines=red+teamer;malware+developer;low-level+programmer;tool+builder;CTF+player" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=600&color=FF0000&center=true&vCenter=true&width=500&lines=red+teamer;malware+developer;low-level+programmer;tool+builder;CTF+player" />
 
 <br>
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-GHOSTPORT-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/GHOSTPORT)
 [![Medium](https://img.shields.io/badge/Medium-Writeups-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ghostport-sudo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ghost--portt-6e40c9?style=for-the-badge&logo=firefox&logoColor=white)](https://ghost-portt.netlify.app)
-
-<br>
-
-[![THM](https://tryhackme-badges.s3.amazonaws.com/GHOSTPORT.png)](https://tryhackme.com/p/GHOSTPORT)
 
 </div>
 
@@ -32,6 +28,8 @@
 ---
 
 <br>
+
+## 〈 about 〉
 
 ```bash
 ┌──(ghostport-sudo㉿kali)-[~]
@@ -43,6 +41,10 @@
   certs  ──  CompTIA Security+
   status ──  building tools · breaking things · writing writeups
 ```
+
+Started coding at 8. Got into security properly after that — been doing CTFs, writing tools, and going deeper into offensive security ever since. I build my own malware, work at the low level, and spend most of my time on TryHackMe or in a terminal. Not here to look the part — here to actually know the craft.
+
+Currently working on red team tooling, malware research, and sharpening low-level skills in C/C++. Long term goal is offensive security professionally.
 
 <br>
 
@@ -107,15 +109,13 @@
 
 <br>
 
-<div align="center">
-
 ## 〈 projects 〉
-
-</div>
 
 <br>
 
 **[VENOM](https://github.com/ghostport-sudo/venom)** — modular python osint cli
+
+> Reconnaissance framework built for the terminal. Modular architecture, clean output, built for speed.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-cc0000?style=flat-square)
@@ -124,6 +124,8 @@
 <br>
 
 **[NytroxRAT](https://github.com/ghostport-sudo/nytroxrat)** — remote access trojan
+
+> Full C2 framework. WPF client, shared models, agent component. Built from scratch in C#/.NET 9.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET 9](https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -138,11 +140,13 @@
 
 <div align="center">
 
-## 〈 certs 〉
+## 〈 certifications 〉
 
 <br>
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+
+*Certified at 13 — youngest in my area at the time*
 
 <br>
 
@@ -155,16 +159,9 @@
 <br>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ghostport-sudo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&text_color=ffffff)
-
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostport-sudo&layout=compact&hide_border=true&bg_color=0d1117&title_color=cc0000&text_color=ffffff)
 
 [![streak](https://streak-stats.demolab.com?user=ghostport-sudo&theme=dark&hide_border=true&background=0D1117&ring=cc0000&fire=FF6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
-
-<br>
-
-### contribution graph
-
-![snake](https://raw.githubusercontent.com/ghostport-sudo/ghostport-sudo/output/github-contribution-grid-snake-dark.svg)
 
 <br>
 
@@ -174,7 +171,11 @@
 
 ## 〈 writeups 〉
 
+</div>
+
 <br>
+
+CTF writeups published on Medium — covering web, priv esc, network, OSINT, and more.
 
 > [medium.com/@ghostport-sudo](https://medium.com/@ghostport-sudo)
 
@@ -182,6 +183,7 @@
 
 ---
 
+<div align="center">
 <br>
 
 ```
